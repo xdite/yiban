@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['xdite']
   spec.email         = ['xuite.joke@gmail.com']
 
-  spec.summary       = 'Tencent NLP CLI'
-  spec.description   = 'Tencent NLP CLI'
+  spec.summary       = '壹伴 AI 标题生成助手'
+  spec.description   = '壹伴 AI 标题生成助手'
   spec.homepage      = 'https://github.com/xdite/yiban'
   spec.license       = 'MIT'
   spec.executables << 'yiban'

@@ -1,6 +1,8 @@
 # Yiban 壹伴标题助手
 
-这是一个可以直接呼叫壹伴标题助手，快速生成的 command line wrapper
+这是一个可以直接呼叫壹伴标题助手，快速生成 AI 推荐标题的 command line wrapper
+
+https://yiban.io/
 
 ## Installation
 
@@ -25,6 +27,8 @@ gem 'yiban'
 ## 拿到壹伴 Token
 
 https://shimo.im/docs/yvgjDxjCyTwHJGJt
+
+务必注册并且付费，拿到 chrome_token 才能启用
 
 ## Usage 使用方式
 
